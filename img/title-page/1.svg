@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1450.9935mm"
+   height="133.40103mm"
+   viewBox="0 0 1450.9935 133.40103"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="1.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   inkscape:export-filename="/Users/andriimaslakov/Desktop/work/portfolio/Divinclub/Divinclub/src/img/title-page/1.svg"
+   inkscape:export-xdpi="25.532648"
+   inkscape:export-ydpi="25.532648"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.14553369"
+     inkscape:cx="2789.732"
+     inkscape:cy="-1075.3524"
+     inkscape:window-width="1669"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g6233">
+    <sodipodi:guide
+       position="0.0020296926,-27.940519"
+       orientation="0,-1"
+       id="guide441" />
+    <sodipodi:guide
+       position="0.067084697,-20.438749"
+       orientation="1,0"
+       id="guide443" />
+    <sodipodi:guide
+       position="34.513588,-13.417809"
+       orientation="1,0"
+       id="guide445" />
+    <sodipodi:guide
+       position="75.103419,-8.8103194"
+       orientation="1,0"
+       id="guide451" />
+    <sodipodi:guide
+       position="130.83215,-16.928279"
+       orientation="1,0"
+       id="guide533" />
+    <sodipodi:guide
+       position="182.09929,2.3228098"
+       orientation="1,0"
+       id="guide535" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.362893,72.87953)">
+    <g
+       id="g6233"
+       inkscape:export-filename="/Users/andriimaslakov/Desktop/work/portfolio/Divinclub/Divinclub/src/img/title-page/wave03.png"
+       inkscape:export-xdpi="25.56811"
+       inkscape:export-ydpi="25.56811"
+       style="fill:#afe9c6">
+      <path
+         style="fill:#afe9c6;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 18.429977,80.96025 c -0.04465,-103.770538 -0.02232,-51.885269 0,0 z"
+         id="path3017"
+         sodipodi:nodetypes="cc"
+         inkscape:export-filename="/Users/andriimaslakov/Desktop/work/portfolio/Divinclub/Divinclub/src/img/title-page/wave02.png"
+         inkscape:export-xdpi="187.99065"
+         inkscape:export-ydpi="187.99065" />
+      <path
+         style="fill:#d6eced;fill-opacity:1;stroke:#808000;stroke-width:0.133545"
+         d="m 18.429665,60.440527 v -27.6447 l 22.753166,-5.48991 C 195.85207,-10.01286 318.59063,-33.173225 431.09748,-45.441166 c 56.37521,-6.147244 110.18142,-9.559593 164.14861,-10.647936 72.17765,-1.455586 112.32889,3.755758 239.62075,31.101164 114.95502,24.69517484 155.2822,30.4431162 213.61196,30.4466849 76.0445,0.00402 130.3761,-8.774296 271.432,-43.8584119 72.2089,-17.960136 96.1209,-23.547241 132.5036,-30.959925 l 16.8642,-3.435929 -5.4565,43.343775 v 0 c 0,0 -271.6604,69.223159 -410.7668,73.015385 C 896.15124,47.841056 742.735,-14.06004 585.77146,-13.423977 394.99462,-12.650892 18.429665,60.440527 18.429665,60.440527 Z"
+         id="path4192"
+         inkscape:export-filename="/Users/andriimaslakov/Desktop/work/portfolio/Divinclub/Divinclub/src/img/title-page/wave05.png"
+         inkscape:export-xdpi="25.365057"
+         inkscape:export-ydpi="25.365057"
+         sodipodi:nodetypes="ccsssscsscccaac" />
+    </g>
+  </g>
+</svg>
